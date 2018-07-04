@@ -1,16 +1,13 @@
+
 <!DOCTYPE html>
 <html lang="en">
 
   {% include head.html %}
 
   <body>
-    <div id="bg">
-      <img src="{{ page.banner_image | relative_url }}" alt="" />
-    </div>
+
     {% include top-nav.html %}
-
-
-    <div class="jumbotron homepage-banner">
+    <div class="jumbotron homepage-banner" style="background-image: url({{ page.banner_image | relative_url }})">
       <div class="container">
         <header class="site-header">
           <h1>{{ site.title }}</h1>
@@ -20,10 +17,6 @@
     </div>
 
     <div class="container">
-      <header class="site-header">
-        <h1>{{ site.title }}</h1>
-      </header>
-      <p>{{ site.description}}</p>
       <!-- Example row of columns -->
       <div class="row">
 
@@ -32,7 +25,7 @@
           <a href="{{ card.link | relative_url }}">
             <h2 class="homepage-card-title">{{ card.title }}</h2>
             <p class="homepage-card-blurb">{{ card.blurb }}</p>
-            <p class="text-right forward"><i class="fa fa-arrow-circle-o-right fa-2x"></i></p>
+            <p class="text-right"><i class="fa fa-arrow-circle-o-right fa-2x"></i></p>
           </a>
         </div>
         {% endfor %}
