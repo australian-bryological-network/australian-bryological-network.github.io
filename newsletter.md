@@ -4,7 +4,11 @@ title: Newsletter
 permalink: /newsletter/
 ---
 
-The Australasian Bryological Newsletter was first issued in 1979 as a forum for amateur and professional bryologists in Australia and New Zealand. It provides news and information on research, workshops and other bryological activities in the Australasian region, which now includes tropical countries such as Indonesia, Timor Leste, New Caledonia and Vanuatu. The Newsletter is currently published twice a year, in mid-winter and mid-summer. Contributions should be sent to the editor, Sarah Harvey (sarah.harvey(at)adelaide.edu.au).
+The Australasian Bryological Newsletter was first issued in 1979 as a forum for amateur and professional
+bryologists in Australia and New Zealand. It provides news and information on research, workshops and
+other bryological activities in the Australasian region. The Newsletter is currently published twice a
+year, in mid-winter and mid-summer. Contributions should be sent to the editor, Sarah Harvey
+(sarah.harvey(at)adelaide.edu.au).
 
 <div class="row">
   <div class="col-xs-6 col-md-3">
