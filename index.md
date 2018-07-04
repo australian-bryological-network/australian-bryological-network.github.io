@@ -15,7 +15,7 @@ cards:
       Articles about the upcoming XIVth Australian Bryophyte Workshop, the
       China–Australia International Workshop for Karst Bryology, and the meaning
       of &apos;paired marginal hairs&apos; in <i>Metzgeria.</i>
-    link: "#"
+    link: "newsletter"
   - title: Bryophyte of the Month
     blurb: >-
       This month&apos;s Bryophyte of the Month is <i>Bartramia subsymmetrica</i>,
