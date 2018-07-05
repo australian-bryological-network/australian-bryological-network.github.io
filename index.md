@@ -7,7 +7,7 @@ banner_image: assets/images/banner/homepage-banner-dawsonia-longiseta.jpg
 cards:
   - title: Upcoming Workshop
     blurb: >-
-      The XIVth Australian Bryophyte Workshop will be held from 23–28 September
+      The XIV<sup>th</sup> Australian Bryophyte Workshop will be held from 23–28 September
       2018 in the picturesque Northern Rivers region of New South Wales.
     link: "workshops/2018"
   - title: Latest Newsletter
