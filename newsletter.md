@@ -13,6 +13,30 @@ year, in mid-winter and mid-summer. Contributions should be sent to the editor, 
 <div class="row">
   <div class="col-xs-6 col-md-3">
     <figure class="thumbnail newsletter">
+      <a href="https://drive.google.com/file/d/1qeB4RLzpJVEv5fSORL5ZHZFNrzM8IXJd/view?usp=sharing">
+        <img alt="" src="{{ "assets/newsletter_thumbnails/ABN_73_thumbnail.jpg" | absolute_url }}"/>
+        <figcaption>No. 73, August 2019</figcaption>
+      </a>
+    </figure>
+  </div>
+  <div class="col-xs-6 col-md-3">
+    <figure class="thumbnail newsletter">
+      <a href="https://drive.google.com/file/d/1L4dT5Pvyp5Pp80DuzQDzx-NP9sHB1hHw/view?usp=sharing">
+        <img alt="" src="{{ "assets/newsletter_thumbnails/ABN_72_thumbnail.jpg" | absolute_url }}"/>
+        <figcaption>No. 72, February 2019</figcaption>
+      </a>
+    </figure>
+  </div>
+  <div class="col-xs-6 col-md-3">
+    <figure class="thumbnail newsletter">
+      <a href="https://drive.google.com/file/d/1IlMvN_71QCS4x-pkuu2fNdvsy8vVItW4/view?usp=sharing">
+        <img alt="" src="{{ "assets/newsletter_thumbnails/ABN_71_thumbnail.jpg" | absolute_url }}"/>
+        <figcaption>No. 71, July 2018</figcaption>
+      </a>
+    </figure>
+  </div>
+  <div class="col-xs-6 col-md-3">
+    <figure class="thumbnail newsletter">
       <a href="https://drive.google.com/file/d/1-RJf1FfEIgVk0oCOVKc1Mdrxnq4b6Htu/view?usp=sharing">
         <img alt="" src="{{ "assets/newsletter_thumbnails/ABN_70_thumbnail.jpg" | absolute_url }}"/>
         <figcaption>No. 70, January 2018</figcaption>

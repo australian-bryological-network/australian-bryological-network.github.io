@@ -7,19 +7,15 @@ banner_image: assets/images/banner/homepage-banner-dawsonia-longiseta.jpg
 cards:
   - title: Upcoming Workshop
     blurb: >-
-      The XIV<sup>th</sup> Australian Bryophyte Workshop will be held from 23–28 September
+      The XIV<sup>th</sup> Australian Bryophyte Workshop was held 23–28 September
       2018 in the picturesque Northern Rivers region of New South Wales.
     link: "workshops/2018"
   - title: Latest Newsletter
     blurb: >-
-      Articles about the upcoming XIVth Australian Bryophyte Workshop, the
-      China–Australia International Workshop for Karst Bryology, and the meaning
-      of &apos;paired marginal hairs&apos; in <i>Metzgeria.</i>
+      Articles about the Matt Renner, winner of the Richard Spruce Award; W.W. Watts; and the bryophyte collection at the Tasmanian Herbarium (HO).
     link: "newsletter"
   - title: Bryophyte of the Month
     blurb: >-
-      This month&apos;s Bryophyte of the Month is <i>Bartramia subsymmetrica</i>,
-      a rare moss found in the high country of south-eastern Australia as well as
-      southern South America and South Georgia.
-    link: "/bryophyte-of-the-month/2018/02/17/bartramia-subsymmetrica"
+      This month&apos;s Bryophyte of the Month is <i>Triquetrella papillata</i>.
+    link: "/bryophyte-of-the-month/2019/12/07/triquetrella-papillata"
 ---
