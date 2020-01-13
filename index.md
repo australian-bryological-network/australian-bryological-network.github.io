@@ -16,6 +16,6 @@ cards:
     link: "newsletter"
   - title: Bryophyte of the Month
     blurb: >-
-      This month&apos;s Bryophyte of the Month is <i>Triquetrella papillata</i>.
-    link: "/bryophyte-of-the-month/2019/12/07/triquetrella-papillata"
+      This month&apos;s Bryophyte of the Month is <i>Acrobolbus knightii</i>.
+    link: "/bryophyte-of-the-month/2020/01/13/acrobolbus-knightii"
 ---
