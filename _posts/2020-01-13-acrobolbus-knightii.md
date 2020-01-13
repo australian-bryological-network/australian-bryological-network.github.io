@@ -21,7 +21,7 @@ The leaves are roundly oblong to quadrate, concave, pale green, rarely more than
 
 ### Further reading ###
 
-Briscoe L, Engel JJ. Söderström L, Hagborg A & von Konrat M 2015. Note on early land plants today. 66. Nomenclatural notes on Acrobolbaceae. *Phytotaxa* __202__: 58–62.
+Briscoe L, Engel JJ. Söderström L, Hagborg A & von Konrat M 2015. Notes on early land plants today. 66. Nomenclatural notes on Acrobolbaceae. *Phytotaxa* __202__: 58–62.
 
 Engel JJ and Glenny D 2019. *A Flora of the Liverworts and Hornworts of New Zealand*. Volume 2. Missouri Botanical Garden Press: St Louis.
 
