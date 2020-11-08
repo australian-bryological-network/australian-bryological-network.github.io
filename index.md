@@ -16,6 +16,6 @@ cards:
     link: "newsletter"
   - title: Bryophyte of the Month
     blurb: >-
-      This month&apos;s Bryophyte of the Month is <i>Acrobolbus knightii</i>.
-    link: "/bryophyte-of-the-month/2020/01/13/acrobolbus-knightii"
+      This month&apos;s Bryophyte of the Month is <i>Dicranoloma dicarpum</i>.
+    link: "/bryophyte-of-the-month/2020/11/08/dicranoloma-dicarpum"
 ---
