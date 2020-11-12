@@ -12,7 +12,7 @@ cards:
     link: "workshops/2018"
   - title: Latest Newsletter
     blurb: >-
-      Articles about the Matt Renner, winner of the Richard Spruce Award; W.W. Watts; and the bryophyte collection at the Tasmanian Herbarium (HO).
+      With an update on the Australian Bryological Workshop and new state records of <i>Pseudscleropodium purum</i> and <i>Pterobryidium australe</i>.
     link: "newsletter"
   - title: Bryophyte of the Month
     blurb: >-

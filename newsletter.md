@@ -13,6 +13,22 @@ year, in mid-winter and mid-summer. Contributions should be sent to the editor, 
 <div class="row">
   <div class="col-xs-6 col-md-3">
     <figure class="thumbnail newsletter">
+      <a href="https://drive.google.com/file/d/19oZ4N2IBqQq2ngIOafeHsa4cB8lQJuDF/view?usp=sharing">
+        <img alt="" src="{{ "assets/newsletter_thumbnails/ABN_75_thumbnail.jpg" | absolute_url }}"/>
+        <figcaption>No. 75, July 2020</figcaption>
+      </a>
+    </figure>
+  </div>
+  <div class="col-xs-6 col-md-3">
+    <figure class="thumbnail newsletter">
+      <a href="https://drive.google.com/file/d/1VV9V4UZQosvrUODE9tzV3DUwqeIIEF87/view?usp=sharing">
+        <img alt="" src="{{ "assets/newsletter_thumbnails/ABN_74_thumbnail.jpg" | absolute_url }}"/>
+        <figcaption>No. 74, January 2020</figcaption>
+      </a>
+    </figure>
+  </div>
+  <div class="col-xs-6 col-md-3">
+    <figure class="thumbnail newsletter">
       <a href="https://drive.google.com/file/d/1qeB4RLzpJVEv5fSORL5ZHZFNrzM8IXJd/view?usp=sharing">
         <img alt="" src="{{ "assets/newsletter_thumbnails/ABN_73_thumbnail.jpg" | absolute_url }}"/>
         <figcaption>No. 73, August 2019</figcaption>
