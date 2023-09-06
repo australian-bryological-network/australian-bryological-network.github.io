@@ -7,9 +7,8 @@ banner_image: assets/images/banner/homepage-banner-dawsonia-longiseta.jpg
 cards:
   - title: Upcoming Workshop
     blurb: >-
-      The XIV<sup>th</sup> Australian Bryophyte Workshop was held 23–28 September
-      2018 in the picturesque Northern Rivers region of New South Wales.
-    link: "workshops/2018"
+      The 15<sup>th</sup> Australian Bryophyte Workshop will be held from October 29 – November 3 in the Baw Baw region of Victoria.
+    link: "workshops/2023"
   - title: Latest Newsletter
     blurb: >-
       With an update on the Australian Bryological Workshop and new state records of <i>Pseudscleropodium purum</i> and <i>Pterobryidium australe</i>.
